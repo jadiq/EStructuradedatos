@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laboratorio 5 y 6 recursividad, arreglos y matrices", "laboratorio 5 y 6 recursividad, arreglos y matrices\laboratorio 5 y 6 recursividad, arreglos y matrices.csproj", "{F46D7104-CDC5-4DB2-BACB-5E7AA98E1B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46D7104-CDC5-4DB2-BACB-5E7AA98E1B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46D7104-CDC5-4DB2-BACB-5E7AA98E1B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46D7104-CDC5-4DB2-BACB-5E7AA98E1B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46D7104-CDC5-4DB2-BACB-5E7AA98E1B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C5E266-5C76-4B52-BAF9-D99AC96C7389}
+	EndGlobalSection
+EndGlobal
